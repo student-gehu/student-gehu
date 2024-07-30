@@ -20,7 +20,7 @@ About Me
 Hello! I’m a B.Tech student at Graphic Era Hill University. I’m passionate about web development and programming. My skills span across various languages and technologies, and I’m continuously learning and improving. Here’s a quick overview of what I know:
 
 HTML: Proficient in creating structured and semantic web pages.
-CSS: Experienced in styling web pages with modern design practices and frameworks.
+CSS: Experienced in styling web pages with modern design practices and frameworks(tailwindCSS).
 JavaScript: Skilled in adding interactivity and dynamic features to websites.
 C Language: Knowledgeable in programming fundamentals and problem-solving.
 Python: Beginner with an interest in exploring its various applications.
